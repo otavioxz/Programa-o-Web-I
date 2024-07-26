@@ -1,0 +1,13 @@
+/* styles.css */
+
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    height: 100vh;           /* Para ver o efeito vertical */
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
