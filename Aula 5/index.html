@@ -1,16 +1,24 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora</title>
+    <title>Calculadora Simples</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <H1>Calculadora</H1>       
-
-    <input placeholder="Digite o valor" type="text" id="display" >
-
-    
+    <div class="calculator">
+        <input type="number" id="valor1" placeholder="Primeiro valor">
+        <input type="number" id="valor2" placeholder="Segundo valor">
+        <div class="buttons">
+            <button onclick="performOperation('+')">+</button>
+            <button onclick="performOperation('-')">-</button>
+            <button onclick="performOperation('*')">*</button>
+            <button onclick="performOperation('/')">/</button>
+            <button onclick="clearInputs()">C</button>
+        </div>
+        <input type="text" id="resultado" readonly placeholder="Resultado">
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
