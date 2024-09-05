@@ -4,7 +4,7 @@
 Nesse repositório, serão adicionados todos os arquivos de atividades e projetos criados
 
 ## Índice
-- [Aula 1](#aula1)
+- [Aula 1](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%201)
 - [Aula 2](#aula2)
 
 ## Instalação
