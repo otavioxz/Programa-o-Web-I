@@ -5,7 +5,10 @@ Nesse repositório, serão adicionados todos os arquivos de atividades e projeto
 
 ## Índice
 - [Aula 1](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%201)
-- [Aula 2](#aula2)
+- [Aula 2](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%202)
+- [Aula 3](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%203)
+- [Aula 4](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%204)
+- [Aula 5](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%205)
 
 ## Instalação
 Passos para instalar e configurar o projeto:
