@@ -7,7 +7,7 @@ $salario2 = $salario1;
 
 $salario2 += 1;
 
-$salario1 *= 1.10;
+$salario1 *= 1.1;
 
-echo "Valor Salário 1: " . number_format($salario1, 2, ',', '.') . " e Valor Salário 2: " . number_format($salario2, 2, ',', '.');
+echo "Valor Salário 1: $salario1 Valor Salário 2: $salario2";
 ?>
