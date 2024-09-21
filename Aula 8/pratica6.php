@@ -4,7 +4,7 @@ $disciplinas = [
     ["disciplina" => "Matemática", "faltas" => 5, "media" => 8.5],
     ["disciplina" => "Português", "faltas" => 2, "media" => 9],
     ["disciplina" => "Geografia", "faltas" => 10, "media" => 6],
-    ["disciplina" => "Educação Física", "faltas" => 2, "media" => 8]
+    ["disciplina" => "Física", "faltas" => 2, "media" => 8]
 ];
 
 ?>
