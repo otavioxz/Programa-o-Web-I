@@ -11,7 +11,6 @@ Nesse repositório, serão adicionados todos os arquivos de atividades e projeto
 - [Aula 5](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%205)
 - [Aula 8](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%208)
 - [Aula 9](https://github.com/otavioxz/Programa-o-Web-I/tree/main/Aula%209)
--  
 
 ## Instalação
 Passos para instalar e configurar o projeto:
